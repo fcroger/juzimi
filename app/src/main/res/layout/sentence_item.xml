@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="8dp"
+    android:layout_marginRight="@dimen/sp_16"
+    android:layout_marginLeft="@dimen/sp_16"
+    android:layout_marginBottom="8dp"
+    android:paddingTop="@dimen/dp_40"
+    android:paddingBottom="@dimen/dp_40"
+    android:paddingLeft="@dimen/fab_margin"
+    android:paddingRight="@dimen/fab_margin"
+    android:background="@drawable/hotpage_sentences_bg"
+    android:clickable="true"
+    android:focusable="true">
+
+</RelativeLayout>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">摘抄</string>
+    <string name="load_fail">加载数据异常</string>
+    <string name="load_end">加载结束</string>
+    <string name="click_finish">双击退出应用</string>
+
+    <string name="retry_connect">没有找到数据哦 点击重试</string>
+    <string-array name="hotpage_item">
+        <item>最新上传</item>
+        <item>今日热门</item>
+        <item>今日推荐</item>
+        <item>最受欢迎</item>
+    </string-array>
+
+    <string-array name="hotpage_tag">
+        <item>4/4 最新上传</item>
+        <item>1/4 今日热门</item>
+        <item>2/4 今日推荐</item>
+        <item>3/4 最受欢迎</item>
+    </string-array>
+</resources>
